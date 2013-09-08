@@ -1,4 +1,4 @@
-
 Die Spiele befinden sich im Ordner 'Etoys'. 
 
-[Squeakland - ETOYS Download](http://www.squeakland.org/)
+Damit man sie benutzen kann, muss man Etoys installieren:
+[Squeakland.org - Etoys Download](http://www.squeakland.org/)
